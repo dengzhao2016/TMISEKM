@@ -1,2 +1,2 @@
 # TMISEKM
-Two-Step Inertial Adaptive Subgradient Extragradient Method with KM for Variational Inequalities
+A Two-Step Inertial Adaptive Subgradient Extragradient Method with KM Iterations for Solving Variational Inequalities
